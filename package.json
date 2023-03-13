@@ -1,7 +1,7 @@
 {
   "name": "react-12.03",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://jesuslovesshiva.github.io/Todo-React",
   "dependencies": {
     "-": "^0.0.1",
