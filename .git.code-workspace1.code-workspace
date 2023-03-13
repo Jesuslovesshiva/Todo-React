@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": ".git",
+      "path": "../../../TechnicalTest/.git"
+    },
+    {
+      "name": "PLP_1.1",
+      "path": "../../../TechnicalTest/PLP_1.1"
+    },
+    {
+      "name": "udemy_JS_1",
+      "path": "../../../TechnicalTest/udemy_JS_1"
+    }
+  ],
+  "settings": {}
+}
