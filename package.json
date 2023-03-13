@@ -2,7 +2,7 @@
   "name": "react-12.03",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jesuslovesshiva.github.io",
+  "homepage": "https://jesuslovesshiva.github.io/Todo-React",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
